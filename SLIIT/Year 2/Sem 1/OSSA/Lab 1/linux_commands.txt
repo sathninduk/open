@@ -1,0 +1,47 @@
+echo - print
+passwd - changing the system password
+date - current date and time
+hostname - system name
+arch - system architecture
+unname -a - system information
+dmesg | more - print kernal ring buffers
+uptime - machine uptime
+whoami - current user
+who - currently logged in users (all)
+
+id - user and group information, (id): uid=1032(sliitstu) gid=1032(sliitstu) groups=1032(sliitstu),999(vboxsf)
+last - all last logged in users
+finger - all type of user information
+w - display users currently logged in to the system and what they are doing
+top - all linux processor
+echo $SHELL - ($: to show information) print variables in the shell directory
+echo {con,pre}{sent,fer}{s,ed} - this views all possible combinations that can be taken from bracket items
+man "automatic door" - this is not a proper unix/linux command
+man ls - user directory of ls command (list directory)
+man who - Print  information  about users who are currently logged in
+
+who can tell me why i got divorced - this is not a proper unix command
+lost - not a proper command
+clear - clear console
+cal 2000 - year 2000 calendar
+cal 9 1752 - year 1752 calendar (Sep 3 - Sep 13 missing)
+bc -l - act as a calculator
+echo 5+4 | bc -l - print the summation of 5+4 (bc -l: it consider as a calculation)
+yes please - print "please" repeatedly
+time sleep 5 - time: time command, sleep: we can delay our output, 5: number of seconds
+history - history of lines
+
+Ex 2
+pwd - current working directory
+ls - list of directory
+cd - change directory
+mkdir - make a directory
+rmdir - rename directory
+cp - copy file/direcorty to a destination
+mv - move directory
+cat - cat>file.txt (create file and write), cat file.txt (view file)
+more and less - 
+vi - vim editor
+
+
+gcc ( c compile )
