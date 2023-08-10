@@ -5,10 +5,6 @@ class EvenOddNumber {
 	boolean findEvenOrOdd(int i) {
 		return i % 2 == 0 ? true : false;
 	}
-	
-	private void test() {
-		//
-	}
 }
 
 public class demo {
