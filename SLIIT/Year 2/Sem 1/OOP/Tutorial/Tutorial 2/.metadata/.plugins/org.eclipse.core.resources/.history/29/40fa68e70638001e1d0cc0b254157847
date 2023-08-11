@@ -1,0 +1,48 @@
+import ex3.BankAccount;
+import java.util.Scanner;
+
+public class Ex3 {
+	public static void main(String args[]) {
+		
+		// variable declaration
+		int ac1, ac2;
+		String name1, name2;
+		double bal1, bal2;
+		
+		// scanner object
+		Scanner sc = new Scanner(System.in);
+		
+		// input
+		// object 1
+		System.out.println("Account 1");
+		
+		System.out.print("Input account number: "); // prompt
+		ac1 = sc.nextInt();
+		
+		System.out.print("Input account holder: "); // prompt
+		name1 = sc.next();
+		
+		System.out.print("Input account balance: "); // prompt
+		bal1 = sc.nextDouble();
+		
+		// object 2
+		System.out.println("Account 2");
+		
+		System.out.print("Input account number: "); // prompt
+		ac2 = sc.nextInt();
+		
+		System.out.print("Input account holder: "); // prompt
+		name2 = sc.next();
+		
+		System.out.print("Input account balance: "); // prompt
+		bal2 = sc.nextDouble();
+		
+		// objects
+		BankAccount a1 = new BankAccount(1, "Sathnindu", 3400);
+		BankAccount a2 = new BankAccount(2, "Pehan", 2500);
+		
+		// output
+		a1.display();
+		a2.display();
+	}
+}

@@ -1,0 +1,14 @@
+import ex3.BankAccount;
+import java.util.Scanner;
+
+public class Ex3 {
+	public static void main(String args[]) {
+		
+		// scanner object
+		Scanner sc = new Scanner(System.in);
+		
+		// objects
+		BankAccount a1 = new BankAccount(1, "Sathnindu", 3400);
+		BankAccount a2 = new BankAccount(2, "Pehan", 2500);
+	}
+}

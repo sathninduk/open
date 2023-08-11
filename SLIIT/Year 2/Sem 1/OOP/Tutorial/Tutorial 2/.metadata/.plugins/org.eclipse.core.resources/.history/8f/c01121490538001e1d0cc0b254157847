@@ -1,0 +1,16 @@
+package ex3;
+
+public class BankAccount {
+
+	private int acc_number;
+	private String acc_name;
+	float balance;
+	
+	// constructors
+	public BankAccount() {
+		acc_number = 0;
+		acc_name = null;
+		balance = 0.0;
+	}
+	
+}

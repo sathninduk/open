@@ -1,0 +1,8 @@
+package ex2;
+
+public class Point3D {
+
+	private int x, y, z;
+	
+	
+}

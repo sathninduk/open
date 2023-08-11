@@ -1,0 +1,24 @@
+package ex3;
+
+public class BankAccount {
+
+	private int acc_number;
+	private String acc_name;
+	double balance;
+	
+	// constructors
+	public BankAccount() {
+		acc_number = 0;
+		acc_name = null;
+		balance = 0.0;
+	}
+	
+	public BankAccount(int acc_number, String acc_name, double balance) {
+		this.acc_number = acc_number;
+		this.acc_name = acc_name;
+		this.balance = balance;
+	}
+	
+	
+	
+}

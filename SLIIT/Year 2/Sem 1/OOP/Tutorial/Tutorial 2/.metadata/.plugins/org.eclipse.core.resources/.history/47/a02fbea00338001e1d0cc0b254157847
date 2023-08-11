@@ -1,0 +1,12 @@
+import ex2.Point3D;
+
+public class Ex2 {
+	public static void main(String args[]) {
+		// object creation
+		Point3D p1 = new Point3D();
+		Point3D p2 = new Point3D();
+		
+		
+		
+	}
+}

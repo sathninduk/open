@@ -1,0 +1,32 @@
+package ex1;
+
+public class Student {
+
+	private String studentID;
+	private String studentName;
+	private int sub1, sub2, sub3;
+	private double avg;
+	
+	public Student() {
+		studentID = null;
+		studentName = null;
+		sub1 = 0;
+		sub2 = 0;
+		sub3 = 0;
+	}
+	
+	public Student(String studentID, String studentName) {
+		this.studentID = studentID;
+		this.studentName = studentName;
+	}
+	
+	public void calculateAvg() {
+		this.avg = (sub1 + sub2 + sub3) / 3.0;
+		System.out.println("The average is: " + this.avg);
+	}
+	
+	public void displayDetails() {
+		System.out.println("ID: " + this.studentID);
+		System.out.println("Name: " + this.studentName);
+	}
+}
