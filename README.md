@@ -1,5 +1,4 @@
-# Personal Notes & Research Sharing Open Knowledge Base
-# by Sathnindu Kottage
+# Open Knowledge Base by Sathnindu Kottage
 
 Welcome to the Personal Notes & Research Sharing Open Knowledge Base repository! This project, maintained by Sathnindu Kottage, aims to provide an inclusive and collaborative platform for sharing academic knowledge, study materials, and insights among students and educators at the Sri Lanka Institute of Information Technology (SLIIT). This repository is intended solely for the purpose of open knowledge sharing without any benefits.
 
