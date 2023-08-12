@@ -1,6 +1,6 @@
 # Contributing Guidelines
 
-Thank you for considering contributing to the SLIIT University Personal Notes Open Knowledge Base repository. Your contributions help create a valuable resource for students and educators. Here's how you can contribute:
+Thank you for considering contributing to the Open Knowledge Base repository. Your contributions help create a valuable resource for students and educators. Here's how you can contribute:
 
 ## How to Contribute
 
@@ -9,7 +9,7 @@ Thank you for considering contributing to the SLIIT University Personal Notes Op
 2. **Clone Your Fork:** Clone the repository to your local machine using the command:
 
     ```shell
-    git clone https://github.com/YourUsername/SLIIT-Notes-Knowledge-Base.git
+    git clone https://github.com/sathninduk/open.git
     ```
 
 3. **Create a Branch:** Create a new branch for your contribution. Please use a descriptive name for the branch related to your contribution.
@@ -42,7 +42,7 @@ After you submit a pull request, the main contributor (Sathnindu Kottage) will r
 
 By participating in this project, you agree to abide by the [Code of Conduct](CODE_OF_CONDUCT.md). Make sure your contributions maintain a respectful and inclusive environment.
 
-Thank you for contributing to the SLIIT University Personal Notes Open Knowledge Base!
+Thank you for contributing to the Open Knowledge Base!
 
 ---
-[SLIIT University Personal Notes Open Knowledge Base README](README.md)
+[Open Knowledge Base README](README.md)
