@@ -12,7 +12,7 @@ To ensure a respectful and positive environment within this repository, all part
 
 ## How to Contribute
 
-While you're currently the sole contributor, if you decide to allow contributions from others in the future, please refer to the [Contributing Guidelines](CONTRIBUTING.md) for information on how others can contribute to the repository.
+Anyone worldwide can contribute to this repository. After the main contributor review, the request will be merged. If you'd like to contribute, please refer to the [Contributing Guidelines](CONTRIBUTING.md) for information on the contribution process.
 
 ## Reporting Issues
 
