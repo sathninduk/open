@@ -21,7 +21,7 @@ If you encounter any issues or wish to offer suggestions, please refer to the [I
 
 ## Coverage
 
-This repository spans a wide range of academic subjects specific to SLIIT. Feel free to explore and contribute to existing materials.
+This repository spans a wide range of academic subjects specific to IT and Computer Science. Feel free to explore and contribute to existing materials.
 
 ## License
 
