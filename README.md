@@ -29,4 +29,4 @@ All materials in this repository are provided under the [license](LICENSE.md), a
 Thank you for sharing your knowledge and contributing to the SLIIT open knowledge community!
 
 ---
-[SLIIT University Personal Notes Open Knowledge Base Code of Conduct](CODE_OF_CONDUCT.md)
+[Open Knowledge Base Code of Conduct](CODE_OF_CONDUCT.md)
